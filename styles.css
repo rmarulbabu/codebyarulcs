@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 
+.resume {
+    color: white;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border:0.5px solid #3b82f6;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+}
+
 html {
     scroll-behavior: smooth;
 }
