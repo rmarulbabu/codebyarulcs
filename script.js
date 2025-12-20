@@ -88,7 +88,7 @@ function scrollToTop() {
 // Typing Effect
 function initializeTypingEffect() {
     const typingElement = document.getElementById('typing-text');
-    const text = ' MERN Stack Developer';
+    const text = 'FULL Stack Developer';
     let index = 0;
 
     function typeText() {
